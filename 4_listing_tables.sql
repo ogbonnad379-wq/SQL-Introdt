@@ -1,0 +1,1 @@
+-- \dt   meta-command  lists all tables in a database
