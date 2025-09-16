@@ -1,1 +1,2 @@
--- \l      meta-command  lists all tables in a postgre server
+\l
+--  meta-command  lists all tables in a postgre server
